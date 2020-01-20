@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sub1</string>
+    <string name="btnADD">Adaugare Oferta</string>
+    <string name="btnList">Lista oferte</string>
+    <string name="btnPreluare">Preluare date</string>
+    <string name="btnCentr">Centralizator</string>
+    <string name="btnAbout">Despre</string>
+    <string name="Autor">Alexandru Demidov</string>
+    <string name="AutorLabel">Autor:</string>
+    <string name="DataLabel">Data de intrare:</string>
+    <string name="AdresaHint">Introduceti adresa...</string>
+    <string name="NrCamereHint">Introduceti numarul de camere...</string>
+    <string name="SuprafataHint">Introduceti suprafata...</string>
+    <string name="PerioadaHint">Introduceti perioada...</string>
+    <string name="TipLocuintaHint">Alegeti tipul de locuinta</string>
+    <string name="btnSalveazaLabel">Salveza</string>
+</resources>
